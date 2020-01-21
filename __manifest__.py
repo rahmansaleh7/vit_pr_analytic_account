@@ -21,6 +21,10 @@
     # any module necessary for this one to work correctly
     'depends': [
                 'base',
+                'vit_product_request',
+                'hr',
+                'purchase',
+                'analytic',
                 ],
 
     # always loaded
