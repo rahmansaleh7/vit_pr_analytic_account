@@ -25,6 +25,7 @@
                 'hr',
                 'purchase',
                 'analytic',
+                'vit_budget',
                 ],
 
     # always loaded

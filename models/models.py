@@ -15,5 +15,3 @@ class Vitpranalyticaccount(models.Model):
             pra = x.env['purchase.requisition.line'].search([('requisition_id.origin','=', x.product_request_id.name)])
             pra.account_analytic_id = x.department_id.analytic_account_id
         return res
-
-
