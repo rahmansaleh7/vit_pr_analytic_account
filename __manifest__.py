@@ -9,7 +9,7 @@
         Analytic Account
     """,
 
-    'author': "Iqbal Abduurahman",
+    'author': "Iqbal Abdurrahman",
     'website': "http://www.vitraining.com",
 
     # Categories can be used to filter modules in modules listing
