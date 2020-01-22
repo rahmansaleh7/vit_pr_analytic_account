@@ -26,6 +26,7 @@
                 'purchase',
                 'analytic',
                 'vit_budget',
+                'stock',
                 ],
 
     # always loaded
