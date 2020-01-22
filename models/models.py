@@ -20,7 +20,7 @@ class Vitpraccount(models.Model):
     _name = "vit.product.request"
     _inherit = "vit.product.request"
 
-    def create_pr(self):
+    def action_create_pr(self):
 
         res = super(Vitpraccount, self).create_pr()
         for h in self :
